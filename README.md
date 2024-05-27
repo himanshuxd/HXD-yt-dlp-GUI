@@ -2,6 +2,8 @@
 
 HXD's YouTube GUI Downloader is a user-friendly application for downloading YouTube videos in various formats using a graphical interface.
 
+![](https://github.com/himanshuxd/HXD-yt-dlp-GUI/blob/main/demo.gif)
+
 ## Features
 
 - Simple and intuitive user interface.
