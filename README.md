@@ -75,7 +75,7 @@ This application requires the following dependencies to be installed:
 
 ## Disclaimer
 
-This application is provided as-is, without any warranty or liability. The author is not liable for any harm caused by the usage of this application. Users are advised to use it at their own risk.
+This application is provided as-is, without any warranty of any kind. The author assumes no liability for damages or issues caused by the use of this software. Please use at your own discretion.
 
 ## License
 
