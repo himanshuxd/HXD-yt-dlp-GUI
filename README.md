@@ -9,6 +9,7 @@ HXD's YouTube GUI Downloader is a user-friendly application for downloading YouT
 - Simple and intuitive user interface.
 - Support for downloading videos in various formats and options.
 - Ability to download subtitles along with videos.
+- Four new color schemes Amoled, Solarized Dark, Solarized Light and Nord in the latest release.
 
 ## Installation
 
